@@ -1,11 +1,13 @@
-Python for Data Science
+Car Prize Prediction From Kaggle
 
-Author: Cognitive class AI
+Author: UMAIR ZIA 
 
-Mentee assignment from IBM Advance AI @Infinite Learning Course completion of Python for Data Science from CognitiveClass.ai
+This program will predict car prizes with Car Price Prediction Multiple Linear Regression data and represent with the plot.
 
 Mentee Info:
 
 Name: Hernadimas Alfattah
 
 Program: IBM Advance AI
+
+Reference Link: https://www.kaggle.com/code/umairziact/car-price-prediction
